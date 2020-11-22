@@ -13,7 +13,7 @@ using namespace std;
 
 // MAIN FUNCTION BEGIN //
 int main(void)
-//
+
 {
 	// CODE/INSTRUCTIONS BEGIN //
 /*
